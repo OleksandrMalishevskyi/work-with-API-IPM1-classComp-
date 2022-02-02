@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/work-with-API-IPM1-classComp-/static/css/main.a821b37d.css",
-    "main.js": "/work-with-API-IPM1-classComp-/static/js/main.23f738bf.js",
+    "main.css": "/work-with-API-IPM1-classComp-/static/css/main.28c18706.css",
+    "main.js": "/work-with-API-IPM1-classComp-/static/js/main.557aa244.js",
     "static/media/vision.png": "/work-with-API-IPM1-classComp-/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/thor.jpeg": "/work-with-API-IPM1-classComp-/static/media/thor.533e3a5e127689ab0b1f.jpeg",
     "static/media/abyss.jpg": "/work-with-API-IPM1-classComp-/static/media/abyss.93d211d37b67a60bace9.jpg",
     "static/media/mjolnir.png": "/work-with-API-IPM1-classComp-/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/work-with-API-IPM1-classComp-/static/media/error.42292aa12b6bc303ce99.gif",
     "index.html": "/work-with-API-IPM1-classComp-/index.html",
-    "main.a821b37d.css.map": "/work-with-API-IPM1-classComp-/static/css/main.a821b37d.css.map",
-    "main.23f738bf.js.map": "/work-with-API-IPM1-classComp-/static/js/main.23f738bf.js.map"
+    "main.28c18706.css.map": "/work-with-API-IPM1-classComp-/static/css/main.28c18706.css.map",
+    "main.557aa244.js.map": "/work-with-API-IPM1-classComp-/static/js/main.557aa244.js.map"
   },
   "entrypoints": [
-    "static/css/main.a821b37d.css",
-    "static/js/main.23f738bf.js"
+    "static/css/main.28c18706.css",
+    "static/js/main.557aa244.js"
   ]
 }
